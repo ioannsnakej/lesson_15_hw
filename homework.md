@@ -20,12 +20,12 @@
 
   перезапускаю nginx, через sudo nginx -s reload:
 
-  <img width="943" height="659" alt="image" src="https://github.com/user-attachments/assets/25d5d963-3f2d-4ecf-adfd-4155e96b07dc" />
-
-
+  <img width="688" height="85" alt="image" src="https://github.com/user-attachments/assets/c63396a9-1c05-4fec-a3f3-cca69455a50a" />
+  
   пробую заходить:
 
-  <img width="688" height="85" alt="image" src="https://github.com/user-attachments/assets/c63396a9-1c05-4fec-a3f3-cca69455a50a" />
+  <img width="943" height="659" alt="image" src="https://github.com/user-attachments/assets/25d5d963-3f2d-4ecf-adfd-4155e96b07dc" />
+
 
 
   
