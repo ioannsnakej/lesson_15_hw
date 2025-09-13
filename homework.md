@@ -14,14 +14,14 @@
 
   <img width="927" height="554" alt="image" src="https://github.com/user-attachments/assets/af7ab481-314a-4725-9198-fe10aeadb5fa" />
 
-  добавил домен tms.by в файл /etc/hosts
-
-  <img width="781" height="739" alt="image" src="https://github.com/user-attachments/assets/3b2474e0-9c03-4370-98be-d5bc584d9349" />
-
   перезапускаю nginx, через sudo nginx -s reload:
 
   <img width="688" height="85" alt="image" src="https://github.com/user-attachments/assets/c63396a9-1c05-4fec-a3f3-cca69455a50a" />
   
+  добавил домен tms.by в файл /etc/hosts
+
+  <img width="781" height="739" alt="image" src="https://github.com/user-attachments/assets/3b2474e0-9c03-4370-98be-d5bc584d9349" />
+
   пробую заходить:
 
   <img width="943" height="659" alt="image" src="https://github.com/user-attachments/assets/25d5d963-3f2d-4ecf-adfd-4155e96b07dc" />
